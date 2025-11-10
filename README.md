@@ -25,3 +25,17 @@ We are developing a fully customized WordPress child theme with the following fe
 - WooCommerce  
 
 ## 📦 Repository Structure
+kachoTech-child-theme/
+│
+├── functions.php
+├── style.css
+├── templates/
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── images/
+└── inc/
+
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
